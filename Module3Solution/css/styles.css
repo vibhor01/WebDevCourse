@@ -1,0 +1,8 @@
+nav,section{
+	background-color: lightyellow;
+	border: 1px solid black;
+}
+
+section{
+	margin:5px;
+}
